@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: "Blog"
-permalink: /blog/
+title: "Posts"
+permalink: /posts/
 classes: wide
 entries_layout: grid
 ---
